@@ -1,0 +1,35 @@
+{
+    "name": "Sucromon pt6 30:07",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-text": "github:darzu/arcade-text#v1.0.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.3.1",
+        "story": "github:riknoll/arcade-story#v1.1.3",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0",
+        "animation": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.9.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.3.3",
+        "tag": "v1.3.3",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/0bd6cd1008cea28f6cd03010e45fbe8f05885e01",
+        "target": "1.3.4",
+        "pxt": "6.3.3",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
